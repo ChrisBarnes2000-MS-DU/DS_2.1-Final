@@ -1,4 +1,9 @@
-# DS 2.1: Machine Learning Final Project: [2018 Match Analysis - First Robotics Compition]()
+# DS 2.1: Machine Learning Final Project: 2018 Match Analysis - [First Robotics Compition](https://www.firstinspires.org/robotics/frc)
+[![time tracker](https://wakatime.com/badge/github/ChrisBarnes7404/DS2.1-Final.svg)](https://wakatime.com/badge/github/ChrisBarnes7404/DS2.1-Final)
+[![GitHub](https://img.shields.io/github/forks/ChrisBarnes7404/DS2.1-Final.svg?style=flat-square)](https://github.com/ChrisBarnes7404/DS2.1-Final/network)
+[![GitHub](https://img.shields.io/github/issues/ChrisBarnes7404/DS2.1-Final.svg?style=flat-square)](https://github.com/ChrisBarnes7404/DS2.1-Final/issues)
+
+
 
 ## Project Summary
 For your final project in this course, you will choose your own dataset to clean, investigate, and make predictions or classification or clustering with. On the final day of the class day, you will give a brief (4-6 min) presentation about your dataset, methodology, and findings. You may choose to work alone or with one partner on this project. Any dataset you choose should be approved by the instructor before beginning.
